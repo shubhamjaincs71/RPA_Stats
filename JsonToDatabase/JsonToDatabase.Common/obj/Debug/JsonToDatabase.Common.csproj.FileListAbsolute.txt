@@ -1,0 +1,14 @@
+C:\Users\skuma825\source\repos\JsonToDatabase\JsonToDatabase.Common\bin\Debug\JsonToDatabase.Common.dll
+C:\Users\skuma825\source\repos\JsonToDatabase\JsonToDatabase.Common\bin\Debug\JsonToDatabase.Common.pdb
+C:\Users\skuma825\source\repos\JsonToDatabase\JsonToDatabase.Common\obj\Debug\JsonToDatabase.Common.Resources.Assets.resources
+C:\Users\skuma825\source\repos\JsonToDatabase\JsonToDatabase.Common\obj\Debug\JsonToDatabase.Common.csproj.GenerateResource.cache
+C:\Users\skuma825\source\repos\JsonToDatabase\JsonToDatabase.Common\obj\Debug\JsonToDatabase.Common.csproj.CoreCompileInputs.cache
+C:\Users\skuma825\source\repos\JsonToDatabase\JsonToDatabase.Common\obj\Debug\JsonToDatabase.Common.dll
+C:\Users\skuma825\source\repos\JsonToDatabase\JsonToDatabase.Common\obj\Debug\JsonToDatabase.Common.pdb
+C:\Users\sjain182\Documents\sachin\JsonToDatabase\JsonToDatabase\JsonToDatabase.Common\bin\Debug\JsonToDatabase.Common.dll
+C:\Users\sjain182\Documents\sachin\JsonToDatabase\JsonToDatabase\JsonToDatabase.Common\bin\Debug\JsonToDatabase.Common.pdb
+C:\Users\sjain182\Documents\sachin\JsonToDatabase\JsonToDatabase\JsonToDatabase.Common\obj\Debug\JsonToDatabase.Common.csprojResolveAssemblyReference.cache
+C:\Users\sjain182\Documents\sachin\JsonToDatabase\JsonToDatabase\JsonToDatabase.Common\obj\Debug\JsonToDatabase.Common.Resources.Assets.resources
+C:\Users\sjain182\Documents\sachin\JsonToDatabase\JsonToDatabase\JsonToDatabase.Common\obj\Debug\JsonToDatabase.Common.csproj.GenerateResource.Cache
+C:\Users\sjain182\Documents\sachin\JsonToDatabase\JsonToDatabase\JsonToDatabase.Common\obj\Debug\JsonToDatabase.Common.dll
+C:\Users\sjain182\Documents\sachin\JsonToDatabase\JsonToDatabase\JsonToDatabase.Common\obj\Debug\JsonToDatabase.Common.pdb
